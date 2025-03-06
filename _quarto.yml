@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "0000_Pagina_web_Github"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
