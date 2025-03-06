@@ -1,0 +1,11 @@
+---
+title: "Organització"
+---
+
+
+```{r}
+cbind(noms = c("a","b","c"),
+      codi = c(1,2,3), 
+      color = c("red", "blue", "green"))
+```
+

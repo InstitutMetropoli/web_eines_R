@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eines de l’Institut Metròpoli",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "visualitzacio.html",
+    "href": "visualitzacio.html",
+    "title": "Visualització",
+    "section": "",
+    "text": "getgttrb2rbtb\nbtrt"
+  },
+  {
+    "objectID": "organitzacio.html",
+    "href": "organitzacio.html",
+    "title": "Organització",
+    "section": "",
+    "text": "cbind(noms = c(\"a\",\"b\",\"c\"),\n      codi = c(1,2,3), \n      color = c(\"red\", \"blue\", \"green\"))\n\n     noms codi color  \n[1,] \"a\"  \"1\"  \"red\"  \n[2,] \"b\"  \"2\"  \"blue\" \n[3,] \"c\"  \"3\"  \"green\""
+  }
+]
