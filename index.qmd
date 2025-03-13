@@ -1,5 +1,21 @@
 ---
 title: "Eines de l'Institut Metròpoli"
+image: media/IM_IC_DigitalClaim_V_01.png
+toc: false
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 17em
+  links:
+   - text: Web
+     href: https://www.institutmetropoli.cat/ca/
+   - text: GitHub
+     href: https://github.com/InstitutMetropoli
+   - text: LinkedIn
+     href: https://www.linkedin.com/company/institutmetropoli/
+   - text: BlueSky
+     href: https://bsky.app/profile/institutmetropoli.cat
 ---
 
-Aquesta és la nova nostra web d'eines per l'anàlisi de dades de l'Institut Metròpoli.
+Aquesta és la nostra nova web d'eines per l'anàlisi de dades de l'Institut Metròpoli.
+Estem treballant en la construcció i millora de la web.
