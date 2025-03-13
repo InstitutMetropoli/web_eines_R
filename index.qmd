@@ -2,12 +2,4 @@
 title: "Eines de l'Institut Metròpoli"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
-
-
+Aquesta és la nova nostra web d'eines per l'anàlisi de dades de l'Institut Metròpoli.
