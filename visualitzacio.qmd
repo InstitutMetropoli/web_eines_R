@@ -2,7 +2,4 @@
 title: "Visualització"
 ---
 
-getgttrb2rbtb
-
-
-btrt
+Aquesta és la secció sobre visualització de dades
