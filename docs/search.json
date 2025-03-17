@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "visualitzacio.html",
+    "href": "visualitzacio.html",
+    "title": "Visualització",
+    "section": "",
+    "text": "Aquesta és la secció sobre visualització de dades"
+  },
+  {
+    "objectID": "organitzacio.html",
+    "href": "organitzacio.html",
+    "title": "Organització",
+    "section": "",
+    "text": "cbind(noms = c(\"a\",\"b\",\"c\"),\n      codi = c(1,2,3), \n      color = c(\"red\", \"blue\", \"green\"))\n\n     noms codi color  \n[1,] \"a\"  \"1\"  \"red\"  \n[2,] \"b\"  \"2\"  \"blue\" \n[3,] \"c\"  \"3\"  \"green\""
+  },
+  {
+    "objectID": "analisis.html",
+    "href": "analisis.html",
+    "title": "Analisis",
+    "section": "",
+    "text": "Aquí posarem tutorials i continguts sobre tècniques d’anàlisi."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Eines de l’Institut Metròpoli",
+    "section": "",
+    "text": "Aquesta és la nostra nova web d’eines per l’anàlisi de dades de l’Institut Metròpoli. Estem treballant en la construcció i millora de la web."
+  }
+]
